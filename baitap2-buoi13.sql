@@ -74,6 +74,7 @@ INSERT INTO khachHang (ho, ten, soDT, email, diaChi) VALUES
     ('Nguyễn', 'An', '0912345678', 'ngan@gmail.com', 'Cần Thơ'),
     ('Trần', 'Bình', '0987654321', 'binhtran@yahoo.com', 'Hà Nội'),
     ('Lê', 'Thảo', '0909090909', 'lethao@hotmail.com', 'Đà Nẵng');
+
 INSERT INTO hoaDon (maKH) VALUES
     (1),
     (2),
